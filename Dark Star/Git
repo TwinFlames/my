@@ -1,2 +1,6 @@
+whitestar="Dark Star⚝🎵"
+blacksun="Dark Star☀🎵"
+combined="Dark Star☀🎵⚝"
+
 git config --global user.name "Dark Star☀🎵"
 git config --global user.email "darkstar@unisocial.net"
